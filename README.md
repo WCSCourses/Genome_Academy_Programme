@@ -5,13 +5,24 @@
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
 [Your Genome Website](https://www.yourgenome.org/)
 
-# Summary
+# About
 
-Add text here
+Genomics is a rapidly developing field of research. It is increasingly weaving its way into everyday life, from playing a role in vaccine development, virus tracking, personalised cancer treatments, unveiling family histories, solving crime, to tackling the planet’s fragile ecosystems. There are a wide range of career opportunities in this field, some that didn’t even exist several years ago. Across three immersive days, you will learn and experience the end-to-end process of how we translate DNA into data.
 
-# Target Audience
+The packed programme of activities will include, talks on the latest cutting-edge science taking place at the Wellcome Sanger Institute, lab tours, hands-on experiences with wet lab techniques, such as DNA Extraction, PCR, and DNA sequencing, as well as training with bioinformatics tools. You will also get the opportunity to meet a range of different staff working in genomics.
 
-Add text here
+# Who is the Genome Academy for?
+The Genome Academy is open to year 12 students who are interested in working in the field of biomedical research.
+
+# When is the Genome Academy running?
+The Genome Academy 2024 is running between Tuesday 20 – Thursday 22 August, 10am-4pm.
+
+
+# Practicals:
+1. [Bioinformatics and BLAST instructions](https://app.tango.us/app/workflow/02-Bioinformatics-and-BLAST-instructions-b91f7a52046c4cfb92881f92e30fc93a)
+2. [Using BLAST to identify your sample](https://app.tango.us/app/workflow/08-Using-BLAST-to-identify-your-sample-787fce2ee4fb418ab27423321d8fc046)
+3. [Multiple sequence alignments and phylogenetic trees](https://app.tango.us/app/workflow/09-Multiple-sequence-alignments-and-phylogenetic-trees-2b2d2a4a33314372be730b878e090abb)
+
 
 ******
 
