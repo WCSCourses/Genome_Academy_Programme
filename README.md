@@ -23,6 +23,7 @@ The Genome Academy 2024 is running between Tuesday 20 – Thursday 22 August, 10
 2. [Using BLAST to identify your sample](https://app.tango.us/app/workflow/08-Using-BLAST-to-identify-your-sample-787fce2ee4fb418ab27423321d8fc046)
 3. [Multiple sequence alignments and phylogenetic trees](https://app.tango.us/app/workflow/09-Multiple-sequence-alignments-and-phylogenetic-trees-2b2d2a4a33314372be730b878e090abb)
 
+**Note:** The Unknown and Known Barcodes can be found in course_data folder above. 
 
 ******
 
