@@ -44,7 +44,7 @@ The Genome Academy 2024 is running between Tuesday 20 – Thursday 22 August, 10
 |----------|------|---------------------|
 | Refresher | - Recap of Day 1 content  | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_02/2-0_Refresher.pdf) |
 | Lab practical – Gel electrophoresis for DNA discovery | - Preparation of samples for loading<br>- Loading samples for gel electrophoresis<br>- Interpreting results of electrophoresis | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_02/2-1_GelElectrophoresis.pdf) |
-| Bioinformatics: Analyse chromatograms and identify invertebrates | - Use Chromas to analyse chromatograms for the accuracy of DNA sequencing<br>- Use BLAST of sequence file against NCBI to identify invertebrate | - [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_02/2-2_IdentifyInvertebrates.pdf)<br> - [Practical 1: Using BLAST to identify your sample](https://app.tango.us/app/workflow/08-Using-BLAST-to-identify-your-sample-787fce2ee4fb418ab27423321d8fc046)<br> - [Practical 2: Bioinformatics and BLAST instructions](https://app.tango.us/app/workflow/02-Bioinformatics-and-BLAST-instructions-b91f7a52046c4cfb92881f92e30fc93a)<br> |
+| Bioinformatics: Analyse chromatograms and identify invertebrates | - Use Chromas to analyse chromatograms for the accuracy of DNA sequencing<br>- Use BLAST of sequence file against NCBI to identify invertebrate | - [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_02/2-2_IdentifyInvertebrates.pdf)<br> - [Practical 1: Using BLAST to identify your sample](https://app.tango.us/app/workflow/08-Using-BLAST-to-identify-your-sample-787fce2ee4fb418ab27423321d8fc046)<br> - [Practical 2: Bioinformatics and BLAST instructions](https://app.tango.us/app/workflow/02-Bioinformatics-and-BLAST-instructions-b91f7a52046c4cfb92881f92e30fc93a)<br> **Note:** The Unknown and Known Barcodes can be found in course_data folder above.  |
 | Talk: Darwin Tree of Life  | - Tropical diseases and drug creation<br>- Applications of PCR and barcoding | [Slides](#)  |
 | Bioinformatics: Create a phylogenetic tree using the invertebrates identified | - Use Clustal Omega to create a multiple sequence alignment<br>- Use Interactive Tree of Life to create a phylogenetic tree | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_02/2-3_PhylogeneticTree.pdf)  |
 | Reflections on day | - Recap and reflections of the second day | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_02/2-4_Reflections.pdf) |
@@ -62,23 +62,6 @@ The Genome Academy 2024 is running between Tuesday 20 – Thursday 22 August, 10
 | Reflections on day | - Recap and reflections of the third day | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_03/3-3_ReflectionsEvaluation%2BCertificates.pdf)  |
 
 ---
-
-### Additional Resources
-
-- **[Docker Official Documentation](https://docs.docker.com/)**: Comprehensive guide and reference for Docker installation, configuration, and usage.
-- **[Docker Hub](https://hub.docker.com/)**: A cloud-based registry service for sharing and managing Docker images.
-- **[Post-Installation Steps for Linux](https://docs.docker.com/engine/install/linux-postinstall/)**: Manage Docker as a non-root user and other post-installation steps.
-- **[Docker Compose Documentation](https://docs.docker.com/compose/)**: Tool for defining and running multi-container Docker applications.
-
-
-# Practicals:
-1. [Bioinformatics and BLAST instructions](https://app.tango.us/app/workflow/02-Bioinformatics-and-BLAST-instructions-b91f7a52046c4cfb92881f92e30fc93a)
-2. [Using BLAST to identify your sample](https://app.tango.us/app/workflow/08-Using-BLAST-to-identify-your-sample-787fce2ee4fb418ab27423321d8fc046)
-3. [Multiple sequence alignments and phylogenetic trees](https://app.tango.us/app/workflow/09-Multiple-sequence-alignments-and-phylogenetic-trees-2b2d2a4a33314372be730b878e090abb)
-
-**Note:** The Unknown and Known Barcodes can be found in course_data folder above. 
-
-******
 
 ## Citing and Re-using Course Material
 
