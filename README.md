@@ -4,6 +4,7 @@
 
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
 [Your Genome Website](https://www.yourgenome.org/)
+[TimeTable](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Student%20timetable%20-%20Summer%202024.pdf)
 
 # About
 
@@ -56,7 +57,7 @@ The Genome Academy 2024 is running between Tuesday 20 – Thursday 22 August, 10
 | Activity | Aims | Presentation Slides |
 |----------|------|---------------------|
 | Refresher | - Recap of Day 2 content  | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_03/3-0_Refresher.pdf)  |
-| Talk: Single cell sequencing techniques | - Introduction to single cell sequencing | [Slides](#)         |
+| Talk: Single cell sequencing techniques | - Introduction to single cell sequencing | [Slides]()         |
 | Talk: Applications of CRISPR / Talk: Drug discovery | - Applications of genomics understanding<br>- Drug discovery | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_03/3-1_Intro-OpenAccess%2BEthics.pdf)         |
 | Ethics Discussion | - Have an understanding of the ethics issues around the use of genomic data   | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_03/3_TALK-Applications%20of%20CRISPR.pdf)  |
 | Reflections on day | - Recap and reflections of the third day | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_03/3-3_ReflectionsEvaluation%2BCertificates.pdf)  |
