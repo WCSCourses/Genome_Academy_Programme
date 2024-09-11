@@ -33,7 +33,7 @@ The Genome Academy 2024 is running between Tuesday 20 – Thursday 22 August, 10
 | Lab practical – mastering micropipetting and exploring electrophoresis | - Introduction to micropipetting<br>- Electrophoresis of dye solutions<br>- Interpretation of electrophoresis | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_01/1-2_LabSafetyMicropipettingElectrophoresis.pdf)  |
 | Lab practical – DNA extraction  | - Grinding to separate cells in tissue<br>- Alkaline lysis + heating<br>- Separating supernatant + pellet | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_01/1-3_DNAExtraction%2BPCR.pdf) |
 | Lab practical – PCR | - Purpose of PCR<br>- Stages of PCR<br>- Setting up PCRs | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_01/1-3_DNAExtraction%2BPCR.pdf)  |
-| Talk: Darwin Tree of Life  | - Tropical diseases and drug creation<br>- Applications of PCR and barcoding | [Slides]() <br /> [Responses to Questions on Tropical Diseases]()<br /> |
+| Talk: Darwin Tree of Life  | - Tropical diseases and drug creation<br>- Applications of PCR and barcoding | [Slides]() <br /> [Responses to Questions on Tropical Diseases](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_01/Responses%20to%20Q%20on%20Tropical%20Diseases.pdf)<br /> |
 | Reflections on day | - Recap and reflections of the first day | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_01/1_TALK-Bioscan.pdf)  |
 
 
@@ -57,7 +57,7 @@ The Genome Academy 2024 is running between Tuesday 20 – Thursday 22 August, 10
 | Activity | Aims | Presentation Slides |
 |----------|------|---------------------|
 | Refresher | - Recap of Day 2 content  | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_03/3-0_Refresher.pdf)  |
-| Talk: Abdul Tumeh| - Automation of lab processes | [Slides] |
+| Talk: Abdul Tumeh| - Automation of lab processes | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_03/3_TALK-Automation%20Presentation.pdf) |
 | Talk: Applications of CRISPR / Talk: Drug discovery | - Applications of genomics understanding<br>- Drug discovery | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_03/3-1_Intro-OpenAccess%2BEthics.pdf)         |
 | Ethics Discussion | - Have an understanding of the ethics issues around the use of genomic data   | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_03/3_TALK-Applications%20of%20CRISPR.pdf)  |
 | Reflections on day | - Recap and reflections of the third day | [Slides](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/Day_03/3-3_ReflectionsEvaluation%2BCertificates.pdf)  |
