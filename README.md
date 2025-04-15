@@ -33,7 +33,6 @@ Participants will:
 - [BLAST results table](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/02%20-%20Barcoding%20basics/02_R_BLAST-results.docx)   
 - [Declaration of consent form](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/02%20-%20Barcoding%20basics/02_R_Declaration-of-consent.docx)   
 - [Sample information record sheet](02_R_Sample-information-record-sheet.docx)   
-
 - [Unknown barcodes sheet](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/02%20-%20Barcoding%20basics/02_R_Unknown-barcodes.docx)
 - [02_Bioinformatics and BLAST instructions](https://app.tango.us/app/workflow/02-Bioinformatics-and-BLAST-instructions-b91f7a52046c4cfb92881f92e30fc93a)
 
