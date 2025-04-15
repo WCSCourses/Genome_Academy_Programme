@@ -6,5 +6,5 @@
 
 **Included in this download is the following:**
 
-Educator notes
-PowerPoint presentation
+- Educator notes
+- PowerPoint presentation
