@@ -37,6 +37,16 @@ Participants will:
 
 ---
 
+### **Session 8 – Bioinformatics: DNA Identity**
+**Aim:** Interpret chromatograms and use bioinformatics tools to identify invertebrate samples.
+
+**Includes:**
+- [Educator notes](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/08%20-%20Bioinformatics%20DNA%20identity/08_E_Bioinformatics-DNA-identity.pdf)   
+- [Student notes](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/08%20-%20Bioinformatics%20DNA%20identity/08_S_Bioinformatics-DNA-identity.pdf)   
+- [PowerPoint presentation](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/08%20-%20Bioinformatics%20DNA%20identity/08_P_Bioinformatics-DNA-identity.pptx)   
+
+---
+
 ### **Session 9 – Bioinformatics: Family Tree**
 **Aim:** Create a phylogenetic tree to explore evolutionary relationships using multiple sequence alignment.
 
@@ -45,17 +55,6 @@ Participants will:
 - [Student notes](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/09%20-%20Bioinformatics%20family%20tree/09_S_Bioinformatics-family-tree.pdf)  
 - [PowerPoint presentation](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/09%20-%20Bioinformatics%20family%20tree/09_P_Bioinformatics-family-tree.pptx)   
 - [Known barcodes sheet](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/09%20-%20Bioinformatics%20family%20tree/09_R_Known-barcodes.docx)   
-
----
-
-### **Session 10 – Science Communication**
-**Aim:** Develop science communication skills through poster creation and presentation.
-
-**Includes:**
-- [Educator notes](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/10%20-%20Science%20communication/10_E_Science-communication.pdf)   
-- [Student notes](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/10%20-%20Science%20communication/10_S_Science-communication.pdf)   
-- [PowerPoint presentation](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/10%20-%20Science%20communication/10_P_Science-communication.pptx)   
-- [Scientific poster template](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/10%20-%20Science%20communication/10_R_Scientific-poster-template.pptx)   
  
 ---
 
