@@ -5,6 +5,7 @@
 [Wellcome Connecting Science GitHub Home Page](https://github.com/WCSCourses) <br /> 
 [Your Genome Website](https://www.yourgenome.org/)<br /> 
 [TimeTable](https://github.com/WCSCourses/Genome_Academy_Programme/blob/main/GenomeAcademy_Material2025/Student%20timetable%20-%20Summer%202025.pdf)
+[Guest Seminar](https://github.com/WCSCourses/Genome_Academy_Programme/tree/main/GenomeAcademy_Material2025/Guest_Seminar)
 
 **Barcoding for Beginners** is a project funded by a Royal Society Partnership Grant. It enables students to engage in real scientific research using molecular biology and bioinformatics techniques, while gaining practical skills and exploring careers in genomics.
 
